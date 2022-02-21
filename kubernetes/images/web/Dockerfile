@@ -1,4 +1,4 @@
-FROM python:2-slim
+FROM python:2-slim-stretch
 MAINTAINER Niranjan Rajendran <niranjan94@yahoo.com>
 
 
