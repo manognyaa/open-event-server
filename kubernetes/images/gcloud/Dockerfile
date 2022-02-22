@@ -1,4 +1,4 @@
-FROM debian:jessie-slim
+FROM debian:bullseye-slim
 MAINTAINER Niranjan Rajendran <niranjan94@yahoo.com>
 
 RUN apt-get clean -y && apt-get update -y
