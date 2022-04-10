@@ -1,4 +1,4 @@
-FROM python:3.11.0a5-alpine as base
+FROM python:3.11.0a6-alpine as base
 
 ####
 
