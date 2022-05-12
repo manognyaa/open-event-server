@@ -1,4 +1,4 @@
-FROM debian:bullseye-slim
+FROM debian:11-slim
 MAINTAINER Niranjan Rajendran <niranjan94@yahoo.com>
 
 RUN apt-get clean -y && apt-get update -y
