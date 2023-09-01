@@ -1,6 +1,12 @@
 {
   "dependencies": {
     "aglio": "^2.3.0",
-    "dredd": "4"
-  }
+    "dredd": "4",
+    "@snyk/protect": "latest"
+  },
+  "scripts": {
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
