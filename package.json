@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "aglio": "^2.3.0",
-    "dredd": "4"
+    "dredd": "13.0.1"
   }
 }
